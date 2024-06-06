@@ -1,4 +1,6 @@
 # Diabetes Prediction System
+
+## This is the code explanation. The actual code is linked back in the other file (Google Collab File)
 ![image](https://github.com/FaizanDhankwala/DiabetesPrediction/assets/55712375/ab6f000b-80fb-4e3c-b156-dc0c41786b84)
 
 This program is designed to predict whether a patient has diabetes based on various medical attributes. The prediction is made using a Support Vector Machine (SVM) classifier.
